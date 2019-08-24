@@ -1,0 +1,11 @@
+E:\Code\AllPattern\AllPattern\bin\Debug\netcoreapp2.1\AllPattern.deps.json
+E:\Code\AllPattern\AllPattern\bin\Debug\netcoreapp2.1\AllPattern.runtimeconfig.json
+E:\Code\AllPattern\AllPattern\bin\Debug\netcoreapp2.1\AllPattern.runtimeconfig.dev.json
+E:\Code\AllPattern\AllPattern\bin\Debug\netcoreapp2.1\AllPattern.dll
+E:\Code\AllPattern\AllPattern\bin\Debug\netcoreapp2.1\AllPattern.pdb
+E:\Code\AllPattern\AllPattern\obj\Debug\netcoreapp2.1\AllPattern.csproj.CoreCompileInputs.cache
+E:\Code\AllPattern\AllPattern\obj\Debug\netcoreapp2.1\AllPattern.AssemblyInfoInputs.cache
+E:\Code\AllPattern\AllPattern\obj\Debug\netcoreapp2.1\AllPattern.AssemblyInfo.cs
+E:\Code\AllPattern\AllPattern\obj\Debug\netcoreapp2.1\AllPattern.dll
+E:\Code\AllPattern\AllPattern\obj\Debug\netcoreapp2.1\AllPattern.pdb
+E:\Code\AllPattern\AllPattern\obj\Debug\netcoreapp2.1\AllPattern.csprojAssemblyReference.cache
